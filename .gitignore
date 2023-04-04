@@ -5,7 +5,10 @@ target
 .idea
 .settings
 .vscode
-*.iml
+*.gradle
+.DS_Store
+
+build
 
 # CDK asset staging directory
 .cdk.staging
